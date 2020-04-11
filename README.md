@@ -11,9 +11,11 @@
 
 ## Mobile📱
 
+<h2>
 <img src=".github/mobile1.png" width="200" />
 <img src=".github/mobile2.png" width="200" />
 <img src=".github/mobile3.png" width="200" />
+</h2>
 
 
 ## 💾 Instalação
