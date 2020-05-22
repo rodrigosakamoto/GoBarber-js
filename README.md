@@ -2,20 +2,17 @@
   <img src=".github/logo-purple.svg" title="GoBarber" width="100px"/>
 </h1>
 
-<h2>GoBarber</h2>
+<h3 align="center">GoBarber - Sistema de gerenciamento de uma barbearia fictícia.</h3>
 
-## Web 💻
-<img src=".github/tela1.png" />
-<img src=".github/tela2.png" />
+<p align="center">
+<img src=".github/mobile1.png" border="0" height="300" />
+<img src=".github/mobile2.png" border="0" height="300" />
+<img src=".github/mobile3.png" border="0" height="300" />
+</p>
 
-
-## Mobile📱
-
-<h2>
-<img src=".github/mobile1.png" width="300" />
-<img src=".github/mobile2.png" width="300" />
-<img src=".github/mobile3.png" width="300" />
-</h2>
+<p align="center">
+  <img src=".github/dashboard.png" border="0" height="300" />
+</p>
 
 
 ## 💾 Instalação
@@ -77,3 +74,5 @@ $ yarn
 $ react-native run android
 $ yarn start
 ```
+---
+By [Rodrigo Sakamoto](https://www.linkedin.com/in/rodrigo-sakamoto/)
